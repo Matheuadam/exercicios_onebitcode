@@ -1,0 +1,30 @@
+p {
+  font-size: 16px;
+  font-weight: lighter;
+  color: black;
+}
+h1 {
+  height: 68px;
+  font-size: 48px;
+  font-family: Impact;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+a {
+  font-size: 16px;
+  font-weight: lighter;
+  font-style: oblique;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(36, 107, 48); /*-> para colorir o fundo do elemento*/
+}
+p {
+  font-size: 16px;
+  font-weight: lighter;
+  color: white;
+  line-height: 18px; /*definir alturas das linhas*/
+  background-color: gray;
+}
